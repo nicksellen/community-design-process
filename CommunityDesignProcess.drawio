@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T10:56:46.040Z" agent="5.0 (X11)" etag="Ot34fj6ZvQYVHtN8gxA3" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T11:06:17.048Z" agent="5.0 (X11)" etag="V2IngQJTNstzjvdZ4vDW" version="13.2.4" type="github">
   <diagram id="Dsz-gqt5UsPoLiR_0gt5" name="Page-1">
     <mxGraphModel dx="1355" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="5pwWrits99L5pKd2EafA-26" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-23">
           <mxGeometry x="834" width="396" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwWrits99L5pKd2EafA-43" value="&lt;div&gt;Preparation is key.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It’s about finding the not only the people who have the experience and participate actively in the project, but mostly about finding the times for the meeting sessions that would work for everybody and keeping them commited so they won’t drop out in the process.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="360" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
