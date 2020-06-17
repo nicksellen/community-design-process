@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T10:55:01.687Z" agent="5.0 (X11)" etag="2Kt6N-PV9nTsgXdLTaGo" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T10:56:46.040Z" agent="5.0 (X11)" etag="Ot34fj6ZvQYVHtN8gxA3" version="13.2.4" type="github">
   <diagram id="Dsz-gqt5UsPoLiR_0gt5" name="Page-1">
     <mxGraphModel dx="1355" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="5pwWrits99L5pKd2EafA-12" value="Sync tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-11">
           <mxGeometry x="437" width="397" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwWrits99L5pKd2EafA-41" value="Kick-off meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-12">
+          <mxGeometry x="73" y="250" width="244" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5pwWrits99L5pKd2EafA-13" value="Async tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-11">
           <mxGeometry x="834" width="396" height="590" as="geometry" />
@@ -39,6 +42,9 @@
             <mxPoint x="-214" y="340" as="sourcePoint" />
             <mxPoint x="-164" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5pwWrits99L5pKd2EafA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" edge="1" parent="5pwWrits99L5pKd2EafA-11" source="5pwWrits99L5pKd2EafA-37" target="5pwWrits99L5pKd2EafA-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5pwWrits99L5pKd2EafA-15" value="&lt;div&gt;Build the map&lt;/div&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-10">
           <mxGeometry y="630" width="1230" height="530" as="geometry" />
