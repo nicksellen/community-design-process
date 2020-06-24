@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T10:13:23.902Z" agent="5.0 (X11)" etag="Nbr-phCDf8KKAwc2bXpl" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T10:16:09.680Z" agent="5.0 (X11)" etag="Pw1BdeTW2Wkt2K6_eV3h" version="13.3.2" type="github">
   <diagram id="Dsz-gqt5UsPoLiR_0gt5" name="Page-1">
-    <mxGraphModel dx="1662" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,19 +58,19 @@
         <mxCell id="5pwWrits99L5pKd2EafA-17" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-15" vertex="1">
           <mxGeometry x="437" width="397" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-1" value="Set a long-term goal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
-          <mxGeometry x="73" y="40" width="244" height="40" as="geometry" />
+        <mxCell id="S00J_4SfSphCWk_1wMWL-1" value="Set a long-term goal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-17" vertex="1">
+          <mxGeometry x="123" y="20" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-10" value="&lt;div&gt;Sprint questions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-10" value="&lt;div&gt;Sprint questions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-17" vertex="1">
           <mxGeometry x="76.5" y="118" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-12" value="Make a map" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-12" value="Make a map" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-17" vertex="1">
           <mxGeometry x="76.5" y="190" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-8" value="&lt;div&gt;Pick a Target on the Map&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-8" value="&lt;div&gt;Pick a Target on the Map&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-17" vertex="1">
           <mxGeometry x="73" y="440" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" edge="1" parent="5pwWrits99L5pKd2EafA-17" target="S00J_4SfSphCWk_1wMWL-8">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-17" target="S00J_4SfSphCWk_1wMWL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="453" y="400" as="sourcePoint" />
           </mxGeometry>
@@ -78,16 +78,16 @@
         <mxCell id="5pwWrits99L5pKd2EafA-18" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-15" vertex="1">
           <mxGeometry x="834" width="396" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-2" value="Ask the Experts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-18">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-2" value="Ask the Experts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-18" vertex="1">
           <mxGeometry x="56" y="298" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-7" value="" style="endArrow=classic;html=1;exitX=0.537;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="5pwWrits99L5pKd2EafA-18">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-7" value="" style="endArrow=classic;html=1;exitX=0.537;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="5pwWrits99L5pKd2EafA-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="184.02800000000025" y="342" as="sourcePoint" />
             <mxPoint x="184" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S00J_4SfSphCWk_1wMWL-3" value="Take &quot;How Might We&quot; Notes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-18">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-3" value="Take &quot;How Might We&quot; Notes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-18" vertex="1">
           <mxGeometry x="56" y="380" width="244" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5pwWrits99L5pKd2EafA-23" value="Actor 3" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-10" vertex="1">
