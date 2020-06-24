@@ -1,76 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T11:06:17.048Z" agent="5.0 (X11)" etag="V2IngQJTNstzjvdZ4vDW" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T09:50:46.854Z" agent="5.0 (X11)" etag="LVUmtmjnGoYSy4Gj_5G0" version="13.3.0" type="github">
   <diagram id="Dsz-gqt5UsPoLiR_0gt5" name="Page-1">
-    <mxGraphModel dx="1355" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5pwWrits99L5pKd2EafA-10" value="Community Design Process" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;dashed=1;fillColor=none;fontFamily=Helvetica;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="5pwWrits99L5pKd2EafA-10" value="Community Design Process" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;dashed=1;fillColor=none;fontFamily=Helvetica;fontSize=28;" parent="1" vertex="1">
           <mxGeometry width="1230" height="1390" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-11" value="&lt;div&gt;Setting the stage&lt;/div&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="5pwWrits99L5pKd2EafA-10">
+        <mxCell id="5pwWrits99L5pKd2EafA-11" value="&lt;div&gt;Setting the stage&lt;/div&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" parent="5pwWrits99L5pKd2EafA-10" vertex="1">
           <mxGeometry y="40" width="1230" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-14" value="Overview" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-11">
+        <mxCell id="5pwWrits99L5pKd2EafA-14" value="Overview" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-11" vertex="1">
           <mxGeometry x="40" width="397" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-12" value="Sync tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-11">
+        <mxCell id="5pwWrits99L5pKd2EafA-12" value="Sync tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-11" vertex="1">
           <mxGeometry x="437" width="397" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-41" value="Kick-off meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-12">
+        <mxCell id="5pwWrits99L5pKd2EafA-41" value="Kick-off meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-12" vertex="1">
           <mxGeometry x="73" y="250" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-13" value="Async tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-11">
+        <mxCell id="5pwWrits99L5pKd2EafA-13" value="Async tasks" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-11" vertex="1">
           <mxGeometry x="834" width="396" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-35" value="Initiate the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-13">
+        <mxCell id="5pwWrits99L5pKd2EafA-35" value="Initiate the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-13" vertex="1">
           <mxGeometry x="56" y="60" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-36" value="Build the team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-13">
+        <mxCell id="5pwWrits99L5pKd2EafA-36" value="Build the team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-13" vertex="1">
           <mxGeometry x="56" y="124" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-37" value="Schedule the kick-off meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-13">
+        <mxCell id="5pwWrits99L5pKd2EafA-37" value="Schedule the kick-off meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-13" vertex="1">
           <mxGeometry x="56" y="190" width="244" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-38" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5pwWrits99L5pKd2EafA-13" source="5pwWrits99L5pKd2EafA-35" target="5pwWrits99L5pKd2EafA-36">
+        <mxCell id="5pwWrits99L5pKd2EafA-38" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5pwWrits99L5pKd2EafA-13" source="5pwWrits99L5pKd2EafA-35" target="5pwWrits99L5pKd2EafA-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-214" y="340" as="sourcePoint" />
             <mxPoint x="-164" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-39" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5pwWrits99L5pKd2EafA-13" source="5pwWrits99L5pKd2EafA-36" target="5pwWrits99L5pKd2EafA-37">
+        <mxCell id="5pwWrits99L5pKd2EafA-39" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5pwWrits99L5pKd2EafA-13" source="5pwWrits99L5pKd2EafA-36" target="5pwWrits99L5pKd2EafA-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-214" y="340" as="sourcePoint" />
             <mxPoint x="-164" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" edge="1" parent="5pwWrits99L5pKd2EafA-11" source="5pwWrits99L5pKd2EafA-37" target="5pwWrits99L5pKd2EafA-41">
+        <mxCell id="5pwWrits99L5pKd2EafA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" parent="5pwWrits99L5pKd2EafA-11" source="5pwWrits99L5pKd2EafA-37" target="5pwWrits99L5pKd2EafA-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-15" value="&lt;div&gt;Build the map&lt;/div&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-10">
+        <mxCell id="5pwWrits99L5pKd2EafA-15" value="&lt;div&gt;Build the map&lt;/div&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-10" vertex="1">
           <mxGeometry y="630" width="1230" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-16" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-15">
+        <mxCell id="5pwWrits99L5pKd2EafA-16" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-15" vertex="1">
           <mxGeometry x="40" width="397" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-17" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-15">
+        <mxCell id="5pwWrits99L5pKd2EafA-17" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-15" vertex="1">
           <mxGeometry x="437" width="397" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-18" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-15">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-1" value="Set a long-term goal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+          <mxGeometry x="73" y="40" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-10" value="&lt;div&gt;Sprint questions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+          <mxGeometry x="76.5" y="118" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-12" value="Make a map" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+          <mxGeometry x="76.5" y="190" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-8" value="&lt;div&gt;Pick a Target on the Map&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-17">
+          <mxGeometry x="73" y="440" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" edge="1" parent="5pwWrits99L5pKd2EafA-17" target="S00J_4SfSphCWk_1wMWL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pwWrits99L5pKd2EafA-18" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-15" vertex="1">
           <mxGeometry x="834" width="396" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-23" value="Actor 3" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-10">
+        <mxCell id="S00J_4SfSphCWk_1wMWL-2" value="Ask the Experts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-18">
+          <mxGeometry x="56" y="298" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-7" value="" style="endArrow=classic;html=1;exitX=0.537;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="5pwWrits99L5pKd2EafA-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.02800000000025" y="342" as="sourcePoint" />
+            <mxPoint x="184" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S00J_4SfSphCWk_1wMWL-3" value="Take &quot;How Might We&quot; Notes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="5pwWrits99L5pKd2EafA-18">
+          <mxGeometry x="56" y="380" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwWrits99L5pKd2EafA-23" value="Actor 3" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-10" vertex="1">
           <mxGeometry y="1160" width="1230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-24" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-23">
+        <mxCell id="5pwWrits99L5pKd2EafA-24" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-23" vertex="1">
           <mxGeometry x="40" width="397" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-25" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-23">
+        <mxCell id="5pwWrits99L5pKd2EafA-25" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-23" vertex="1">
           <mxGeometry x="437" width="397" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-26" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="5pwWrits99L5pKd2EafA-23">
+        <mxCell id="5pwWrits99L5pKd2EafA-26" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="5pwWrits99L5pKd2EafA-23" vertex="1">
           <mxGeometry x="834" width="396" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5pwWrits99L5pKd2EafA-43" value="&lt;div&gt;Preparation is key.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It’s about finding the not only the people who have the experience and participate actively in the project, but mostly about finding the times for the meeting sessions that would work for everybody and keeping them commited so they won’t drop out in the process.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="5pwWrits99L5pKd2EafA-43" value="&lt;div&gt;Preparation is key.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It’s about finding the not only the people who have the experience and participate actively in the project, but mostly about finding the times for the meeting sessions that would work for everybody and keeping them commited so they won’t drop out in the process.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="100" width="360" height="180" as="geometry" />
         </mxCell>
       </root>
